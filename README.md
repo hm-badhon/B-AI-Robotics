@@ -6,6 +6,14 @@ Welcome to the B-AI Robotics Courses repository! This repository contains educat
 
 1. [Introduction](#introduction)
 2. [Courses](#courses)
+   - [1. Introduction to Robotics](#1-introduction-to-robotics)
+   - [2. Programming for Robotics Beginners](#2-programming-for-robotics-beginners)
+   - [3. Electronics and Sensors in Robotics](#3-electronics-and-sensors-in-robotics)
+   - [4. Robotics Mechanics and Kinematics](#4-robotics-mechanics-and-kinematics)
+   - [5. Advanced Programming for Robotics](#5-advanced-programming-for-robotics)
+   - [6. Computer Vision in Robotics](#6-computer-vision-in-robotics)
+   - [7. Machine Learning for Robotics](#7-machine-learning-for-robotics)
+   - [8. Advanced Robotics Projects](#8-advanced-robotics-projects)
 3. [Prerequisites](#prerequisites)
 4. [Getting Started](#getting-started)
 5. [Contributing](#contributing)
@@ -17,17 +25,100 @@ This repository aims to provide a comprehensive set of courses covering various 
 
 ## Courses
 
-### 1. [Course Name 1](/course1)
-   - Description: A brief overview of the course content and objectives.
-   - Topics Covered: List of major topics covered in the course.
-   - Resources: Links to lectures, code samples, and additional reading materials.
+### 1. Introduction to Robotics
 
-### 2. [Course Name 2](/course2)
-   - Description: A brief overview of the course content and objectives.
-   - Topics Covered: List of major topics covered in the course.
-   - Resources: Links to lectures, code samples, and additional reading materials.
+   - **Description**: An overview of robotics, its applications, and fundamental concepts.
+   - **Topics Covered**:
+     - Definition and history of robotics
+     - Types of robots and their applications
+     - Basic components of a robot
+   - **Resources**:
+     - Reading materials
+     - Video lectures
+     - Simple hands-on activities with basic robotic kits
 
-<!-- Add more courses as needed -->
+### 2. Programming for Robotics Beginners
+
+   - **Description**: Introduction to programming languages commonly used in robotics.
+   - **Topics Covered**:
+     - Basics of programming (variables, loops, conditionals)
+     - Introduction to a robot programming language (e.g., Python for robotics)
+     - Simple robot control programs
+   - **Resources**:
+     - Coding exercises
+     - Online coding platforms
+     - Simulation environments for testing programs
+
+### 3. Electronics and Sensors in Robotics
+
+   - **Description**: Understanding electronic components and sensors used in robotics.
+   - **Topics Covered**:
+     - Basics of electronics (circuits, components)
+     - Types of sensors (proximity, infrared, ultrasonic)
+     - Interfacing sensors with microcontrollers
+   - **Resources**:
+     - Hands-on projects with sensor integration
+     - Circuit building exercises
+     - Sensor datasheets and documentation
+
+### 4. Robotics Mechanics and Kinematics
+
+   - **Description**: Introduction to the mechanical aspects of robotics.
+   - **Topics Covered**:
+     - Robot kinematics and dynamics
+     - Mechanical design principles
+     - Types of robot joints and actuators
+   - **Resources**:
+     - 3D modeling and simulation software
+     - Robotics kits for building and experimenting with mechanical structures
+
+### 5. Advanced Programming for Robotics
+
+   - **Description**: Advanced programming concepts and software development for robotics.
+   - **Topics Covered**:
+     - Object-oriented programming for robotics
+     - ROS (Robot Operating System) fundamentals
+     - Path planning and control algorithms
+   - **Resources**:
+     - Real-world robot programming projects
+     - Collaborative coding in ROS
+     - Algorithm implementation exercises
+
+### 6. Computer Vision in Robotics
+
+   - **Description**: Understanding and implementing computer vision in robotics applications.
+   - **Topics Covered**:
+     - Image processing techniques
+     - Object detection and recognition
+     - Integration of cameras and vision sensors
+   - **Resources**:
+     - Computer vision libraries and frameworks
+     - Image processing projects
+     - Object detection challenges
+
+### 7. Machine Learning for Robotics
+
+   - **Description**: Applying machine learning techniques to enhance robotic capabilities.
+   - **Topics Covered**:
+     - Introduction to machine learning
+     - Reinforcement learning for robotics
+     - Neural networks for robot perception
+   - **Resources**:
+     - Machine learning tools and frameworks
+     - Hands-on machine learning projects with robots
+     - Simulation-based reinforcement learning exercises
+
+### 8. Advanced Robotics Projects
+
+   - **Description**: Capstone projects to apply all learned concepts in a comprehensive robotics application.
+   - **Topics Covered**:
+     - Integration of multiple robotic subsystems
+     - Project management for robotics
+     - Real-world challenges and solutions
+   - **Resources**:
+     - Mentorship and guidance on project development
+     - Access to advanced robotic platforms
+     - Collaboration with industry experts
 
 ## Prerequisites
 
