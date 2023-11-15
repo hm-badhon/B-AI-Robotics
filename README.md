@@ -140,7 +140,7 @@ Follow these steps to get started with the robotics courses:
 We welcome contributions to enhance and expand this repository. If you have improvements, additional courses, or corrections, feel free to open an issue or submit a pull request. Please refer to our [contribution guidelines](CONTRIBUTING.md) for more details.
 
 ## Author
-
+![image](https://github.com/hm-badhon/B-AI-Robotics/assets/85755347/66c97e32-8c1a-4ff4-8d0a-2ca6cea547a5)
 - **H.M. Mehedi Hasan (Badhon)**
   - *Associate Robotics Engineer at Next Solution Lab (NSL)*
 
