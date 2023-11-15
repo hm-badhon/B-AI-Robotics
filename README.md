@@ -1,7 +1,7 @@
 # B-AI Robotics Courses Content
 
 Welcome to the B-AI Robotics Courses repository! This repository contains educational materials and resources for learning robotics. Whether you're a beginner or an experienced roboticist, you'll find a variety of courses to enhance your skills and knowledge.
-![b_ai](https://github.com/hm-badhon/B-AI-Robotics/assets/85755347/d78937ce-bb06-457b-8051-707a096f40eb)
+![b_ai](https://github.com/hm-badhon/B-AI-Robotics/assets/85755347/f13078d8-088e-4a64-b2cf-6974c5da8add)
 
 ## Table of Contents
 
@@ -138,6 +138,11 @@ Follow these steps to get started with the robotics courses:
 ## Contributing
 
 We welcome contributions to enhance and expand this repository. If you have improvements, additional courses, or corrections, feel free to open an issue or submit a pull request. Please refer to our [contribution guidelines](CONTRIBUTING.md) for more details.
+
+## Author
+
+- **H.M. Mehedi Hasan (Badhon)**
+  - *Associate Robotics Engineer at Next Solution Lab (NSL)*
 
 ## License
 
