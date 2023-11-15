@@ -1,6 +1,7 @@
 # B-AI Robotics Courses Content
 
 Welcome to the B-AI Robotics Courses repository! This repository contains educational materials and resources for learning robotics. Whether you're a beginner or an experienced roboticist, you'll find a variety of courses to enhance your skills and knowledge.
+![b_ai](https://github.com/hm-badhon/B-AI-Robotics/assets/85755347/d78937ce-bb06-457b-8051-707a096f40eb)
 
 ## Table of Contents
 
